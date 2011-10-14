@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<loc version="1.0" src="Groundspeak">
+<waypoint>
+	<name id="GC2MHDQ"><![CDATA[Koppartrans II by Hedstrom]]>
+</name>
+<coord lat="57.7060590" lon="11.9407546"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC2MHDQ</link>
+</waypoint><waypoint>
+	<name id="GC2MG8D"><![CDATA[Simborgarmärket by MPLL]]>
+</name>
+<coord lat="57.7045235"  lon="11.9376559"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC2MG8D</link>
+</waypoint><waypoint>
+	<name id="GC2MAB2"><![CDATA[Hindås Kyrka by Staffb]]>
+</name>
+<coord lat="57.7075740" lon="11.9368718"/>
+<type>Geocache</type>
+<link text="Cache Details">http://www.geocaching.com/seek/cache_details.aspx?wp=GC2MAB2</link>
+</waypoint></loc>

@@ -1,0 +1,10 @@
+GPS_Reader
+GUI
+Logic
+Logic.History
+Logic.SearchEngine
+Logic.SearchEngine.API
+Logic.SearchEngine.Manual
+Logic.SearchEngine.Manual.Comparator
+Logic.XMLReader
+Sound
